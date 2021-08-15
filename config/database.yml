@@ -1,0 +1,19 @@
+development:
+  adapter: mysql2
+  encoding: utf8
+  database: paises
+  username: root
+  password: secret
+  host: 127.0.0.1
+  port: 33060
+  timeout: 0
+
+production:
+  adapter: mysql2
+  encoding: utf8
+  database: paises
+  username: root
+  password: secret
+  host: 127.0.0.1
+  port: 33060
+  timeout: 0
